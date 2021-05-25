@@ -33,6 +33,12 @@ Pls use the exe version for best reactivity
 - Exist also on Ps1 script (you can edit and add what you want to get as informations on line : 
 - recommended to use the Microsoft Store Version 
 
+![rti-1](https://user-images.githubusercontent.com/49924401/119490542-3e507300-bd5d-11eb-9c0c-930c35e973e6.PNG)
+![rti-2](https://user-images.githubusercontent.com/49924401/119490546-3f81a000-bd5d-11eb-87ef-bddc3b7109c9.PNG)
+![rti-3](https://user-images.githubusercontent.com/49924401/119490550-401a3680-bd5d-11eb-8ab9-e55e4821040b.PNG)
+![rti-4](https://user-images.githubusercontent.com/49924401/119490551-40b2cd00-bd5d-11eb-9251-28274381f943.PNG)
+
+
 # Troubleshoting :
 
 -if you can connect to the remote machine, pls try on Powershell winrm connection with this command : enter-pssession "yourcomputername" 
