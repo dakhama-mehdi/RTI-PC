@@ -1,6 +1,8 @@
 # RTI-PC
 Real Time Inventory - PC
 
+![rtipc](https://user-images.githubusercontent.com/49924401/119489651-2fb58c00-bd5c-11eb-9d94-fa852aada862.gif)
+
 # About :
 
 RTI-PC is a free opensource management tool, which allows you to administer and identify your Windows 10 and server, without dependency or installation.
