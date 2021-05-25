@@ -29,8 +29,8 @@ Pls use the exe version for best reactivity
 
 # Versions : 
 
-- the tools exist on exe for two version basic or with proc pourcent, the exist also on Ps1 script
-you can add what you want to get as informations on line : 
+- The tools exist on exe for two version basic or with proc pourcent
+- Exist also on Ps1 script (you can edit and add what you want to get as informations on line : 
 - recommended to use the Microsoft Store Version 
 
 # Troubleshoting :
