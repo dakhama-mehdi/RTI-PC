@@ -10,28 +10,28 @@ RTI-PC gives you a control over necessary aspects of your Windows infrastructure
 It is particularly useful for troubleshooting servers, workstations on private networks that are not connected to the Internet.
 
 RTI-PC can help to :
--get the software information on remote computer
--check memeory usage, proc, free ram
--get information like (current user, Bios version, OS version, total ram size, IP, @mac, Serialnumber)
--Avaible and Free hard disk drive 
--get remontely logs to check errors and warning
+- get the software information on remote computer
+- check memeory usage, proc, free ram
+- get information like (current user, Bios version, OS version, total ram size, IP, @mac, Serialnumber)
+- Avaible and Free hard disk drive 
+- get remontely logs to check errors and warning
 
 Pls use the exe version for best reactivity
 
 # PREREQUISITE :
 
-*Win10 on workgroup or domain
-*if you want connect to remote Win10 machine pls enable Winrm (by Gpo or on cmd.Exe with winrmqc )
+* Win10 on workgroup or domain
+* if you want connect to remote Win10 machine pls enable Winrm (by Gpo or on cmd.Exe with winrmqc )
 
 # How to use :
 
--just enter the name of computer then click Ok
+- just enter the name of computer then click Ok
 
 # Versions : 
 
--the tools exist on exe for two version basic or with proc pourcent, the exist also on Ps1 script
+- the tools exist on exe for two version basic or with proc pourcent, the exist also on Ps1 script
 you can add what you want to get as informations on line : 
--Favor use the Microsoft Store Version 
+- use the Microsoft Store Version 
 
 # Troubleshoting :
 
