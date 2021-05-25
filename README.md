@@ -20,8 +20,8 @@ Pls use the exe version for best reactivity
 
 # PREREQUISITE :
 
--Win10 on workgroup or domain
--enable Winrm if you want connect to remote Win10 machine
+*Win10 on workgroup or domain
+*if you want connect to remote Win10 machine pls enable Winrm (by Gpo or on cmd.Exe with winrmqc )
 
 # How to use :
 
