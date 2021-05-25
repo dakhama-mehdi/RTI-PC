@@ -31,7 +31,7 @@ Pls use the exe version for best reactivity
 
 - the tools exist on exe for two version basic or with proc pourcent, the exist also on Ps1 script
 you can add what you want to get as informations on line : 
-- use the Microsoft Store Version 
+- recommended to use the Microsoft Store Version 
 
 # Troubleshoting :
 
