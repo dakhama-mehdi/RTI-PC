@@ -97,7 +97,7 @@ function Show-RTI-PC-radio-test-spourentage-4-with-proc-new_psf {
         }
 "@ -IgnoreWarnings | Out-Null
 	}
-	#endregion Define SAPIEN Types
+	#endregion Define 
 
 	#----------------------------------------------
 	#region Generated Form Objects
@@ -137,7 +137,7 @@ function Show-RTI-PC-radio-test-spourentage-4-with-proc-new_psf {
 		#TODO: Initialize Form Controls here
 		$textbox1.Text = $env:computername
 		$script:communpcname = $textbox1.Text
-		$radiobuttonEN.Checked = $True
+		
 	}
 	
 	$textbox1_TextChanged={
@@ -1752,9 +1752,6 @@ function Show-RTI-PC-radio-test-spourentage-4-with-proc-new_psf {
 		
 		.NOTES
 			Additional information about the function.
-		
-		.LINK
-			http://www.sapien.com/blog/2011/05/05/primalforms-2011-designing-charts-for-powershell/
 	#>
 		
 		param
