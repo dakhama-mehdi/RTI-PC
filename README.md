@@ -40,6 +40,6 @@ link how to enable Winrm by GPO : https://www.mehdi-dakhama.com/post/enable-winr
 
 # Troubleshoting :
 
--if you can connect to the remote machine, pls try on Powershell winrm connection with this command : enter-pssession "yourcomputername" 
+- if you can connect to the remote machine, pls try on Powershell winrm connection with this command : enter-pssession "yourcomputername" 
 if dont work, enable winrm, then retry with the tool, because it is based on Winrm service
 
