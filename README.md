@@ -21,7 +21,8 @@ Pls use the exe version for best reactivity
 # PREREQUISITE :
 
 * Win10 on workgroup or domain
-* if you want to manage a remote computer pls enable Winrm (by Gpo or with cmd.Exe : winrmqc )
+* if you want to manage a remote computer pls enable Winrm (by Gpo or with cmd.Exe : winrmqc ) 
+link how to enable Winrm by GPO : https://www.mehdi-dakhama.com/post/enable-winrm-by-gpo
 
 # How to use :
 
