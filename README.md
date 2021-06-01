@@ -29,6 +29,11 @@ link how to enable Winrm by GPO : https://www.mehdi-dakhama.com/post/enable-winr
 
 - just enter the name of computer then click Ok
 
+# Download : 
+
+you cant get RTI-PC from Microsoft Store, on by the PS1 Script, or download the exe from github
+
+
 # Versions : 
 
 - The tools exist on exe for two version basic or with proc pourcent
