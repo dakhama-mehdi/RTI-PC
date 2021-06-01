@@ -23,7 +23,8 @@ Pls use the exe version for best reactivity
 * Win10 on workgroup or domain
 * if you want to manage a remote computer pls enable Winrm (by Gpo or with cmd.Exe : winrmqc ) 
 link how to enable Winrm by GPO : https://www.mehdi-dakhama.com/post/enable-winrm-by-gpo
-* if you are in the domain, the user must by on administrator groups to collect some informations
+* if you are on the domain, the user must by on administrator groups to collect some informations
+
 # How to use :
 
 - just enter the name of computer then click Ok
